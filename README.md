@@ -22,6 +22,6 @@ enter these commands into bash:
 # Install Python dependencies
 pip install -r requirements.txt
 
-#Author
+# Author
 Ben Ames
 Student Developer | Mars Area High School, class of 2026
