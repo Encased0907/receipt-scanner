@@ -1,4 +1,4 @@
-## Receipt Scanner
+# Receipt Scanner
 
 This is a python based OCR tool that scans receipt images to automatically extract:
 - the store name
@@ -7,14 +7,14 @@ This is a python based OCR tool that scans receipt images to automatically extra
 
 This project demonstrates real world automation using Python, OCR, and transforming data from one format to another
 
-## Technologies used
+# Technologies used
 
 - Python 3
 - Pytesseract (https://pypi.org/project/pytesseract/)
 - Tesseract OCR Engine (https://github.com/tesseract-ocr/tesseract)
 - Pillow (image processsing)
 
-## Setup instructions
+# Setup instructions
 enter these commands into bash: 
 	git clone https://github.com/YOUR_USERNAME/receipt-scanner.git
 	cd receipt-scanner
